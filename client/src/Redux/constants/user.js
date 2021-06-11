@@ -1,0 +1,16 @@
+export const REGISTER_USER = "REGISTER_USER";
+export const LOGIN_USER = "LOGIN_USER";
+export const LOAD_USER = "LOAD_USER";
+export const FAIL_USER = "FAIL_USER";
+export const CURRENT_USER = "CURRENT_USER";
+export const LOGOUT_USER = "LOGOUT_USER";
+export const VIDE_ERRORS = "VIDE_ERRORS";
+export const GET_USER = "GET_USER";
+export const UPDATE_CART = "UPDATE_CART";
+export const POST_COMMENT = "POST_COMMENT";
+export const GET_COMMENTS = "GET_COMMENTS";
+export const DELETE_COMMENT = "DELETE_COMMENT";
+export const REMOVE_WISHCART = "REMOVE_WISHCART";
+export const GET_WISHCART = "GET_WISHCART";
+export const UPDATE_ORDER = "UPDATE_ORDER";
+export const GET_USERS = "GET_USERS";

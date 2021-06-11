@@ -1,0 +1,40 @@
+#card_list_c {
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+    /* width: 50%; */
+    flex-wrap: wrap;
+    /* transition: background 0.2s ease, padding 0.8s linear; */
+}
+#fo_rm {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+#searh_bar {
+    margin-right: 20px;
+    background-color: white;
+    color: black;
+    border: solid 1px;
+}
+#but_12 {
+    margin-left: 20px;
+}
+select {
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -ms-appearance: none; /* get rid of default appearance for IE8, 9 and 10*/
+    color: white;
+}
+.op_t {
+    background-color: blue;
+}
+.drop_but {
+    margin-left: 20px;
+}
+
+.flex-container {
+    margin-bottom: 30px;
+}

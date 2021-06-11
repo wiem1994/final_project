@@ -1,0 +1,31 @@
+#c_c_o {
+    margin-left: 20px;
+    width: 55%;
+    margin-top: 20px;
+}
+#rm_bt {
+    /* margin-top: 20px; */
+}
+.plus_minus_butt {
+    width: 50%;
+    height: 10%;
+    margin-left: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#al_but {
+    display: flex;
+    margin: 30px;
+    margin-left: 90px;
+}
+#tot_but {
+    margin-left: 250px;
+}
+
+#qty_cart {
+    margin-left: 70px;
+}
+#order_card_admin {
+    width: 80%;
+}

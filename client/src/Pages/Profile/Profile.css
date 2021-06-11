@@ -1,0 +1,50 @@
+/* img {
+    display: flex;
+    justify-content: center;
+    width: 8%;
+    margin: 100px auto 0px auto;
+} */
+
+/* .profile {
+    background-image: url("../../assets/bg-01.jpg");
+    background-size: cover;
+} */
+.txt {
+    color: white;
+}
+.cont {
+    background-color: lightcoral;
+}
+#b_pro_ile {
+    margin-top: 30px;
+}
+#st_inf_pr {
+    display: flex;
+    flex-direction: column;
+}
+.mb-0 {
+    margin-top: 60px;
+    color: blue;
+}
+.mb-1 {
+    margin-top: 60px;
+}
+#mb-2 {
+    width: 30%;
+    background-color: coral;
+    color: black;
+}
+#mb-3 {
+    width: 30%;
+    background-color: coral;
+    color: black;
+}
+#part_pro {
+    margin-top: 40px;
+}
+#back_r_pro {
+    background-color: rgba(245, 245, 245, 0.76);
+}
+#im_pro {
+    width: 30%;
+}

@@ -1,0 +1,62 @@
+/* button {
+    background-color: transparent;
+} */
+
+.row {
+    margin: 0;
+}
+
+.main {
+    margin: 0;
+    padding: 2vh 0;
+    width: 100%;
+}
+
+.col-2,
+.col {
+    padding: 0 1vh;
+}
+
+a {
+    padding: 0 1vh;
+}
+
+.img-fluid {
+    width: 3.5rem;
+}
+
+hr {
+    margin-top: 1.25rem;
+}
+.border-bottom {
+    width: 50%;
+    margin-left: 20px;
+}
+#c_c_o {
+    margin-left: 20px;
+    width: 55%;
+    margin-top: 20px;
+}
+#rm_bt {
+    /* margin-top: 20px; */
+}
+.plus_minus_butt {
+    width: 50%;
+    height: 10%;
+    margin-left: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#al_but {
+    display: flex;
+    margin: 30px;
+    margin-left: 90px;
+}
+#tot_but {
+    margin-left: 250px;
+}
+
+#qty_cart {
+    margin-left: 70px;
+}

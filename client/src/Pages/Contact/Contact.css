@@ -1,0 +1,54 @@
+.full_block {
+    display: flex;
+    width: 70%;
+    margin: 50px auto 0 auto;
+}
+
+.first_part {
+    padding: 40px;
+    display: "flex";
+    flex-direction: column;
+    width: 40%;
+    align-items: flex-start;
+    background-color: #ff9a9c;
+    background-size: cover;
+    padding: 40px;
+}
+.first_part_title {
+    color: white;
+    font-weight: bold;
+}
+.paragraph {
+    margin-bottom: 30px;
+    font-weight: lighter;
+}
+.second_part {
+    width: 60%;
+    padding: 40px 0px;
+    background-color: rgba(245, 245, 245, 0.609);
+}
+.second_part_title {
+    margin-bottom: 30px;
+}
+p {
+    text-align: left;
+    margin-left: 15px;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.i_id_input {
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px 0px 15px 10px;
+    width: 80%;
+}
+#input_message {
+    padding: 0 0 100px 0;
+}
+
+#but_ton_contact_c {
+    background-color: #ff9a9c;
+    margin-left: 180px;
+    width: 30%;
+}

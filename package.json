@@ -1,0 +1,35 @@
+{
+    "name": "final_project",
+    "version": "1.0.0",
+    "description": "an e commerce project",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server",
+        "back": "nodemon server",
+        "front": "cd client && npm start",
+        "dev": "concurrently \"npm run front\" \"npm run back\"",
+        "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+    },
+    "keywords": [
+        "node",
+        "mongoose",
+        "express"
+    ],
+    "author": "wiem",
+    "license": "ISC",
+    "dependencies": {
+        "@material-ui/core": "^4.11.4",
+        "bcrypt": "^5.0.1",
+        "express": "^4.17.1",
+        "express-validator": "^6.11.1",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^5.12.12",
+        "react-icons": "^4.2.0",
+        "react-stars": "^2.2.5"
+    },
+    "devDependencies": {
+        "concurrently": "^6.1.0",
+        "dotenv": "^9.0.2",
+        "nodemon": "^2.0.7"
+    }
+}

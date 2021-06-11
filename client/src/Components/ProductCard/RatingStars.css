@@ -1,0 +1,7 @@
+#input_stars {
+    display: none;
+}
+#star {
+    cursor: pointer;
+    transition: color 200ms;
+}

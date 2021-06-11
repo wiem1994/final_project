@@ -1,0 +1,93 @@
+button {
+    letter-spacing: 2px;
+    border: none;
+
+    width: 133px;
+    height: 47px;
+    margin-right: 19px;
+    cursor: pointer;
+    margin: 15px auto;
+    padding: 0;
+    background: #ff9a9c;
+    border-radius: 10px 30px;
+    font-size: 15px;
+    color: #fff;
+    font-family: "Montserrat-SemiBold";
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+h1 {
+    color: #ff9a9c;
+}
+.full {
+    background: url("../../assets/bg-01.jpg") no-repeat;
+    width: 30%;
+    height: 490px;
+    margin: 0 auto;
+    /* border-radius: 10px 130px; */
+    /* border-radius: 33% 67% 34% 66% / 100% 0% 100% 0%; */
+    position: relative;
+    width: 530px;
+    height: 530px;
+    overflow: hidden;
+    background: white;
+    clip-path: polygon(
+        0 10%,
+        10% 0,
+        90% 0,
+        100% 10%,
+        100% 90%,
+        90% 100%,
+        10% 100%,
+        0% 90%,
+        0% 10%
+    );
+    margin-bottom: 50px;
+}
+input {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 60%;
+}
+p {
+    font-weight: bold;
+}
+.sign:hover {
+    text-decoration: none;
+    color: #ff9a9c;
+}
+#log_login_c {
+    color: #ff9a9c;
+}
+#little_log_login {
+    color: #ff9a9c;
+}
+.sign {
+    color: white;
+}
+h6,
+p {
+    color: white;
+}
+#content_login_info {
+    padding: 0px auto;
+}
+#i_n {
+    width: 90%;
+}
+#i_n_1 {
+    width: 90%;
+}
+#wrap {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+
+    background: url("../../assets/bg-registration-form-4.jpg") no-repeat;
+    background-size: cover;
+}
+.title_login {
+    color: black;
+}

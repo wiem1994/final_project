@@ -1,0 +1,28 @@
+#modal_c_i {
+    width: 75%;
+    background-color: white;
+    border-color: white;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+#p_modal {
+    font-weight: bolder;
+    color: black;
+}
+#check_out_but {
+    font-weight: bolder;
+    width: "40%";
+    background-color: #ef5f96;
+    max-height: max-content;
+    height: 60px;
+    border-color: transparent;
+}
+
+#cont_but {
+    font-weight: bolder;
+    width: "40%";
+    background-color: #ef5f96;
+    max-height: max-content;
+    height: 40%;
+    border-color: transparent;
+}

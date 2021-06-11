@@ -1,0 +1,25 @@
+.inputArea > * {
+    margin: 20px 0px;
+}
+#add_item_component_button-1 {
+    width: 13%;
+    margin: 50px 0px 0 570px;
+}
+#this_is_for_decoration {
+    border-bottom: 1px solid white;
+    color: white;
+    /* padding-bottom: 0.25em; */
+    text-decoration: none;
+    padding-left: 10px;
+    text-align: center;
+}
+
+#this_is_for_decoration:hover {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E %3Cpath fill='none' stroke='%23453886' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background-size: 20%;
+    border-bottom: 0;
+    padding-bottom: 0.3em;
+    text-decoration: none;
+}

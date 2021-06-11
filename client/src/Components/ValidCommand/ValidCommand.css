@@ -1,0 +1,16 @@
+#val_id_com {
+    margin-top: 30px;
+    margin-left: 10%;
+}
+#but_valid {
+    width: 20%;
+    height: 10%;
+    margin-bottom: 40px;
+    background-color: white;
+}
+#com_v {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
